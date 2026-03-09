@@ -249,7 +249,7 @@ export function HeroSection() {
                 
                 <h3 className="text-accent font-bold text-md sm:text-xl">Manifesto</h3>
               </div>
-              <a href="https://drive.google.com/file/d/1jYiZ9jZ0jXbm_QaN62aCneQSsChf2IRw/view" className="text-accent hover:underline text-xs mt-3 inline-block">Click Here ↗</a>
+              <a href="https://drive.google.com/file/d/1ET7p9bheRihfVfFHX_YDdgCGjxDCecN1/view" className="text-accent hover:underline text-xs mt-3 inline-block">Click Here ↗</a>
             </div>
 
             {/* Feasibility Report Box */}
@@ -258,7 +258,7 @@ export function HeroSection() {
                 
                 <h3 className="text-accent font-bold text-md sm:text-xl">Feasibility Report</h3>
               </div>
-              <a href="https://drive.google.com/file/d/1ET7p9bheRihfVfFHX_YDdgCGjxDCecN1/view" className="text-accent hover:underline text-xs mt-3 inline-block">Click Here ↗</a>
+              <a href="https://drive.google.com/file/d/1jYiZ9jZ0jXbm_QaN62aCneQSsChf2IRw/view" className="text-accent hover:underline text-xs mt-3 inline-block">Click Here ↗</a>
             </div>
           </div>
         </motion.div>
